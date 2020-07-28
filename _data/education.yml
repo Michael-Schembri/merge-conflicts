@@ -2,5 +2,12 @@
 - degree: Data Scientist in python
   uni: Dataquest
   year: June, 2020
-  # awards:
-  # summary:
+  awards: Most innovative student
+  summary: Spent several hours a day studying extra libraries and going the extra mile for excellence
+  
+- degree: Full Stack Webdeveloper Nanodegree
+  uni: Udacity
+  year: June, 2014 &mdash; January, 2015
+  awards: Most Dedicated Student per Optional Activities Completed
+  summary: Spent 6 dedicated months working 12 hour days to build out multiple real world apps and websites.
+
